@@ -1,4 +1,4 @@
-Restful API with page & detailed page
+Restful API with page, limit and pagination & detailed page
 For example use: https://stud.hosted.hr.nl/0902104/Restful/songs
 
 XML & Json support
